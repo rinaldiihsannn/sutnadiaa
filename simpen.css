@@ -1,0 +1,28 @@
+.col1 {
+    height: 150px;
+    padding: 50px;
+    text-align: center;
+    margin-top: 6px;
+  }
+  
+  .col2 {
+    height: 150px;
+    padding: 50px;
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+  
+  .col3 {
+    height: 150px;
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 6px;
+  }
+  
+  .col4 {
+    height: 150px;
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 6px;
+  }
